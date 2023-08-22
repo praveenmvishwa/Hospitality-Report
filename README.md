@@ -2,6 +2,9 @@
 
 link to Live dashboard: https://www.novypro.com/project/hospitality-domain-project-report
 
+# Mock up Dashboard
+
+![mock up dashboard_atliq grands](https://github.com/praveenmvishwa/Hospitality-Report/assets/97948603/8c55436d-806f-4517-ad19-1980d03b18de)
 
 
 # Problem statement

@@ -1,6 +1,6 @@
 # Hospitality-Report
 
-link to Live dashboard: https://www.novypro.com/project/hospitality-domain-project-report
+link to Live dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmY4OWQzMzktODg1YS00YTJhLTkwYzktYmQ1ZDM4MjRmMzQ2IiwidCI6IjUxNzRlYjQzLTc1YTQtNGM2Ni1iNGFjLTQ4NzllMTUxZGIzYSJ9
 
 # Mock up Dashboard
 

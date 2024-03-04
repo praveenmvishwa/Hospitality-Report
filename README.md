@@ -22,8 +22,9 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 # Provided Mock-up Dashboard
 # output
-[Hospitality Revenue Report.pdf](https://github.com/praveenmvishwa/Hospitality-Report/files/11660888/Hospitality.Revenue.Report.pdf)
-![Screenshot (91)](https://github.com/praveenmvishwa/Hospitality-Report/assets/97948603/6bece175-8633-40dd-8853-477aab921855)
+![Vs1](https://github.com/praveenmvishwa/Hospitality-Report/assets/97948603/af1456ab-5f9d-438f-ab12-ca810d1cd9b8)
+
+
 
 # Data Model
 ![Screenshot (92)](https://github.com/praveenmvishwa/Hospitality-Report/assets/97948603/e689292e-c8dc-4438-b54d-65dabdd5fc72)
